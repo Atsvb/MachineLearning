@@ -1,1 +1,1 @@
-
+This is a Convolutional Neural Network for the MNIST like datatset for Kannada handwritten digits. All the relevant information and the data sets are available here: https://github.com/vinayprabhu/Kannada_MNIST and here: https://www.kaggle.com/higgstachyon/kannada-mnist/¶
